@@ -1,0 +1,31 @@
+{
+  "name": "discordmodtool",
+  "version": "1.0.0",
+  "description": "Decompiles, recompiles, adds quick mods, backs up discord, and more",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rescii/DiscordModTool.git"
+  },
+  "keywords": [
+    "discord",
+    "modding"
+  ],
+  "author": "Resci",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/Rescii/DiscordModTool/issues"
+  },
+  "homepage": "https://github.com/Rescii/DiscordModTool#readme",
+  "dependencies": {
+    "asar": "^3.1.0",
+    "colors": "^1.4.0",
+    "find-process": "^1.4.7",
+    "github-api": "^3.4.0",
+    "node-fetch": "^3.2.5",
+    "open-terminal": "^0.1.11"
+  }
+}

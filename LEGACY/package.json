@@ -1,0 +1,14 @@
+{
+  "name": "dmt",
+  "version": "1.0.0",
+  "description": "Basic tool to decompile / compile discord ASAR files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Resci",
+  "license": "ISC",
+  "dependencies": {
+    "asar": "^3.1.0"
+  }
+}

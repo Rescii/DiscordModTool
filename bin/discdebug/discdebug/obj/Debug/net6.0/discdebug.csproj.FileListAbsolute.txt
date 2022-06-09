@@ -1,0 +1,15 @@
+C:\Users\Griff\Documents\DiscordModTool\bin\discdebug\discdebug\bin\Debug\net6.0\discdebug.exe
+C:\Users\Griff\Documents\DiscordModTool\bin\discdebug\discdebug\bin\Debug\net6.0\discdebug.deps.json
+C:\Users\Griff\Documents\DiscordModTool\bin\discdebug\discdebug\bin\Debug\net6.0\discdebug.runtimeconfig.json
+C:\Users\Griff\Documents\DiscordModTool\bin\discdebug\discdebug\bin\Debug\net6.0\discdebug.dll
+C:\Users\Griff\Documents\DiscordModTool\bin\discdebug\discdebug\bin\Debug\net6.0\discdebug.pdb
+C:\Users\Griff\Documents\DiscordModTool\bin\discdebug\discdebug\obj\Debug\net6.0\discdebug.csproj.AssemblyReference.cache
+C:\Users\Griff\Documents\DiscordModTool\bin\discdebug\discdebug\obj\Debug\net6.0\discdebug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Griff\Documents\DiscordModTool\bin\discdebug\discdebug\obj\Debug\net6.0\discdebug.AssemblyInfoInputs.cache
+C:\Users\Griff\Documents\DiscordModTool\bin\discdebug\discdebug\obj\Debug\net6.0\discdebug.AssemblyInfo.cs
+C:\Users\Griff\Documents\DiscordModTool\bin\discdebug\discdebug\obj\Debug\net6.0\discdebug.csproj.CoreCompileInputs.cache
+C:\Users\Griff\Documents\DiscordModTool\bin\discdebug\discdebug\obj\Debug\net6.0\discdebug.dll
+C:\Users\Griff\Documents\DiscordModTool\bin\discdebug\discdebug\obj\Debug\net6.0\refint\discdebug.dll
+C:\Users\Griff\Documents\DiscordModTool\bin\discdebug\discdebug\obj\Debug\net6.0\discdebug.pdb
+C:\Users\Griff\Documents\DiscordModTool\bin\discdebug\discdebug\obj\Debug\net6.0\discdebug.genruntimeconfig.cache
+C:\Users\Griff\Documents\DiscordModTool\bin\discdebug\discdebug\obj\Debug\net6.0\ref\discdebug.dll
