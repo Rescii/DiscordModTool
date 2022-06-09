@@ -1,1 +1,0 @@
-useDown:e},n):null}}},{key:"filterOptions",value:function(e){var t=this.state.inputValue,n=this.props.options||[];if(this.props.filterOptions){var r="function"==typeof this.props.filterOptions?this.props.filterOptions:b;return r(n,t,e,{filterOption:this.props.filterOption,ignoreAccents:this.props.ignoreAccents,ignoreCase:this.props.ignoreCase,label
