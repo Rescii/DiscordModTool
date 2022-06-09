@@ -106,3 +106,5 @@ dist
 # Temp files
 temp*
 !/.gitignore
+
+.vscode/
